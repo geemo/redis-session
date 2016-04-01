@@ -1,0 +1,18 @@
+{
+  "name": "redis-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/app.js"
+  },
+  "author": "geemo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "redis": "^2.6.0-0"
+  }
+}
